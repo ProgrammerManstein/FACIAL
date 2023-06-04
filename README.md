@@ -2,15 +2,16 @@
 part of digital human, synthesis of head poses and expression. 
 # Requirements  
 Python environment  
-'''
+
+``` 
 conda create -n audio_face  
 conda activate audio_face  
 ``` 
 
 ffmpeg  
-'''
+``` 
 sudo apt-get install ffmpeg  
-'''
+``` 
 
 python packages  
 ``` 
@@ -22,7 +23,7 @@ you may add opencv by conda.
 conda install opencv  
 ``` 
 
-Citation
+Citation  
 
 ``` 
 @inproceedings{zhang2021facial,
