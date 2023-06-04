@@ -1,5 +1,6 @@
 # FACIAL
-part of digital human, synthesis of head poses and expression. 
+part of digital human, synthesis of head poses and expression.  
+You can recurrent the project by using the [jupter notebook](https://www.baidu.com/)  
 # Requirements  
 Python environment  
 
