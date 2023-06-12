@@ -1,6 +1,6 @@
 # FACIAL
 part of digital human, synthesis of head poses and expression.  
-You can recurrent the project by using the [jupter notebook facial_train_install.ipynb](facial_train_install.ipynb). We need mtcnn to extract image facial features, and Openface to extract video facial features.  
+You can recurrent the project by using the [jupter notebook facial_train_install.ipynb](facial_train_install.ipynb). We need [mtcnn](mtcnn.ipynb) to extract image facial features, and Openface to extract video facial features.  
 You can train the module by using the [jupter notebook facial_train.ipynb](facial_train.ipynb) after having recurrented it.  
 After training, you can get any video that is instructed by your text by using the [jupter notebook facial_test.ipynb](facial_test.ipynb).  
 # Requirements  
