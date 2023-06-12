@@ -1,8 +1,8 @@
 # FACIAL
 part of digital human, synthesis of head poses and expression.  
 You can recurrent the project by using the [jupter notebook](facial_train_install.ipynb).  
-You can train the module by using the [jupter notebook](facial_train_install.ipynb) after having recurrented it.  
-After training, you can get any video that is instructed by your text by using the [jupter notebook](facial_train_install.ipynb).  
+You can train the module by using the [jupter notebook](facial_train.ipynb) after having recurrented it.  
+After training, you can get any video that is instructed by your text by using the [jupter test](facial_train_install.ipynb).  
 # Requirements  
 Python environment  
 
