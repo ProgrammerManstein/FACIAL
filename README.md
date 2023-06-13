@@ -1,6 +1,6 @@
 # FACIAL
 part of digital human, synthesis of head poses and expression.  
-You can recurrent the project by using the [jupter notebook facial_train_install.ipynb](facial_train_install.ipynb). We need [mtcnn](mtcnn.ipynb) to extract image facial features, and Openface to extract video facial features. And please unzip [BFM_model_front](https://github.com/ProgrammerManstein/FACIAL/blob/master/FACIAL/face_render/BFM/BFM_model_front.7z).
+You can recurrent the project by using the [jupter notebook facial_train_install.ipynb](facial_train_install.ipynb). We need [mtcnn](mtcnn.ipynb) to extract image facial features, and [Openface](https://github.com/TadasBaltrusaitis/OpenFace/releases) to extract video facial features. And please unzip [BFM_model_front](https://github.com/ProgrammerManstein/FACIAL/blob/master/FACIAL/face_render/BFM/BFM_model_front.7z).
 You can train the module by using the [jupter notebook facial_train.ipynb](facial_train.ipynb) after having recurrented it.  
 After training, you can get any video that is instructed by your text by using the [jupter notebook facial_test.ipynb](facial_test.ipynb).  
 You can also consult the original project [FACIAL: Synthesizing Dynamic Talking Face With Implicit Attribute Learning. ICCV, 2021.](https://github.com/zhangchenxu528/FACIAL) for more information.
